@@ -1,0 +1,6 @@
+{
+  "name": "UrbanAI - Smart City Intelligence Platform",
+  "description": "AI-powered municipal urban intelligence and transit command center featuring GPS location-based city fault detection, live fleet radar, computer vision road defect inspection, and real-time hazard alerts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
